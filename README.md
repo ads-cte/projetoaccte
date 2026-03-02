@@ -1,4 +1,4 @@
-# 🚀 Projeto - Desenvolvimento de Software I - Express + Next.js + TypeScript + MySQL + Docker 
+# 🚀 Projeto - Desenvolvimento de Software I - Express + Next.js + TypeScript + MySQL + Docker teste
 
 Projeto base com arquitetura moderna usando Express para o backend, Next.js para o frontend, TypeScript em ambos, e Docker para containerização.
 
