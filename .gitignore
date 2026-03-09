@@ -12,6 +12,9 @@
 # Pasta contendo todos os pacotes instalados via npm
 # Não deve ser commitada pois é regenerada com "npm install"
 node_modules/
+.env
+dist/
+*.exe
 
 # Arquivos de log do npm e yarn (ferramentas de gerenciamento de pacotes)
 # Criados durante instalação ou execução de scripts
