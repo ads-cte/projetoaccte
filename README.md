@@ -1,6 +1,6 @@
 # 🚀 Projeto - Desenvolvimento de Software I - Express + Next.js + TypeScript + MySQL + Docker 
 
-Projeto base com arquitetura moderna usando Express para o backend, Next.js para o frontend, TypeScript em ambos, e Docker para containerização. teste yumi 123
+Projeto base com arquitetura moderna usando Express para o backend, Next.js para o frontend, TypeScript em ambos, e Docker para containerização. github
 
 ## 📋 Estrutura do Projeto
 
