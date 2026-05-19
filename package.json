@@ -1,0 +1,35 @@
+{
+  "name": "projetoaccte",
+  "version": "1.0.0",
+  "description": "Projeto base com arquitetura moderna usando Express para o backend, Next.js para o frontend, TypeScript em ambos, e Docker para containerização.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanildobear/projetoaccte.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vanildobear/projetoaccte/issues"
+  },
+  "homepage": "https://github.com/vanildobear/projetoaccte#readme",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.6.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
